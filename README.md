@@ -1,10 +1,9 @@
 # Contact-Rest-CURD
 
-##
-go mod init
-go get github.com/gorilla/mux
-go get github.com/jinzhu/gorm
-go get github.com/go-sql-driver/mysql
+1. go mod init
+2. go get github.com/gorilla/mux
+3. go get github.com/jinzhu/gorm
+4. go get github.com/go-sql-driver/mysql
 
 We would need packages:
 1. gorilla/mux:= For creating routes and HTTP handlers for our endpoints
