@@ -8,7 +8,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	_ "github.com/jinzhu/gorm/dialects/mysql" //Required for MySQL
+	_ "github.com/jinzhu/gorm/dialects/mysql" 
 )
 
 func main() {
